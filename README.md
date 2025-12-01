@@ -4,7 +4,7 @@
 
 ## 📫 Contact
 - **Email**: gd20119@naver.com
-- **Notion**: [NotionLink](https://fanatical-warrior-33f.notion.site/20010c3b6bee80f9ad06e086629be343)
+- **Notion**: [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://fanatical-warrior-33f.notion.site/20010c3b6bee80f9ad06e086629be343)
 
 ## 🎓 Education
 - **삼성 청년 SW AI 아카데미 (SSAFY) 13기** (2025.01 ~ 현재)
